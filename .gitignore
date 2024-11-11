@@ -1,0 +1,10 @@
+#/pom.xml
+/src/main/resources/application.yml
+/src/main/resources/db.properties
+/src/main/resources/config/MybatisGeneratorConfig.xml
+.idea
+
+
+
+# 项目排除路径
+/target/
